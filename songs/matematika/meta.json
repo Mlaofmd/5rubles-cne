@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#F9CF51",
+	"opponentModeAllowed": false,
+	"icon": "icon-carol",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Matematika",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 120
+}

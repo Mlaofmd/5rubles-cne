@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="700" scrollspeed="1" startCamPosY="400" folder="stages/подвал/" zoom="0.55">
+	<sprite x="-785" scroll="0.8" sprite="bgwa" y="-400" type="none" name="bg"/>
+	<sprite x="730" scroll="0.8" sprite="часики" y="-260" type="none" name="clock"/>
+	<character camxoffset="-200" x="1250" scroll="0.8" camyoffset="-50" y="150" name="hopka_math"/>
+	<sprite x="13.4052765013554" scroll="0.8" sprite="lampi" y="-726.275751016814" type="none" name="lamps"/>
+	<sprite x="-600" sprite="lampi-svet" y="-150" type="none" alpha="0.1" name="lamplights"/>
+	<sprite x="770.171277021911" scroll="0.8" sprite="блик-часы" y="-225.827136270138" type="none" name="bleak"/>
+	<sprite x="-690" sprite="stol" y="720" type="none" name="table"/>
+	<character camxoffset="-200" x="1300" camyoffset="-50" y="190" name="rich"/>
+	<character camxoffset="300" camyoffset="50" y="200" name="purmath"/>
+	<character camxoffset="-350" x="760" camyoffset="-50" y="250" name="redarmath"/>
+	<sprite x="600" sprite="redar-mon" y="840" type="none" name="redar"/>
+	<sprite x="-970" sprite="fg-shits" y="540" scale="0.9" name="shit"/>
+	<girlfriend/>
+	<dad/>
+	<boyfriend/>
+</stage>

@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="-220" y="205" sprite="matematika/purmath" camx="-112" camy="-150" icon="purs" color="#4E3A63" holdTime="6.1">
+	<anim name="idle" anim="idle" x="-3" y="73" loop="true"/>
+	<anim name="singDOWN" anim="down0" x="-3" y="11"/>
+	<anim name="singRIGHT" anim="right0" x="-3.4" y="89.2"/>
+	<anim name="singLEFT" anim="left0" x="-3.6" y="82"/>
+	<anim name="singUP" anim="up0" x="-3.8" y="119.8"/>
+	<anim name="idle-alt" anim="altidle" x="-4" y="48" loop="true"/>
+	<anim name="singDOWN-alt" anim="altdown0" x="-4" y="5"/>
+	<anim name="singRIGHT-alt" anim="altright0" x="-3.4" y="71.2"/>
+	<anim name="singLEFT-alt" anim="altleft0" x="8.4" y="119"/>
+	<anim name="singUP-alt" anim="altup0" x="-3.8" y="167.8"/>
+	<anim name="hey" anim="ahegao" x="-4" y="150"/>
+</character>

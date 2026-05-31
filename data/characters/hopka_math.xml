@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-740" y="120" sprite="matematika/hopka_math" scale="1.12" scrollx="0.8" scrolly="0.8" camx="0" camy="0" icon="hopka" color="#A78B75" holdTime="6.1">
+	<anim name="idle" anim="idle0" x="7" y="18" loop="true"/>
+	<anim name="singDOWN" anim="down0" x="18.4" y="-46"/>
+	<anim name="singRIGHT" anim="right0" x="19.6" y="13.2"/>
+	<anim name="singLEFT" anim="left0" x="46.4" y="10"/>
+	<anim name="singUP" anim="up0" x="8.2" y="30.8"/>
+</character>

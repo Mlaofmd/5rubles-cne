@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hopka-fnf.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loop lose0000" x="156" y="3" width="150" height="150"/>
+	<SubTexture name="loop lose0001" x="156" y="3" width="150" height="150"/>
+	<SubTexture name="loop lose0002" x="156" y="3" width="150" height="150"/>
+	<SubTexture name="loop lose0003" x="156" y="156" width="150" height="150"/>
+	<SubTexture name="loop lose0004" x="156" y="156" width="150" height="150"/>
+	<SubTexture name="loop lose0005" x="156" y="156" width="150" height="150"/>
+	<SubTexture name="loop lose0006" x="156" y="309" width="150" height="150"/>
+	<SubTexture name="loop lose0007" x="156" y="309" width="150" height="150"/>
+	<SubTexture name="loop lose0008" x="156" y="309" width="150" height="150"/>
+	<SubTexture name="loop win0000" x="3" y="462" width="150" height="150"/>
+	<SubTexture name="loop win0001" x="3" y="462" width="150" height="150"/>
+	<SubTexture name="loop win0002" x="3" y="462" width="150" height="150"/>
+	<SubTexture name="loop win0003" x="3" y="615" width="150" height="150"/>
+	<SubTexture name="loop win0004" x="3" y="615" width="150" height="150"/>
+	<SubTexture name="loop win0005" x="3" y="615" width="150" height="150"/>
+	<SubTexture name="loop win0006" x="3" y="768" width="150" height="150"/>
+	<SubTexture name="loop win0007" x="3" y="768" width="150" height="150"/>
+	<SubTexture name="loop win0008" x="3" y="768" width="150" height="150"/>
+	<SubTexture name="lose0000" x="156" y="768" width="150" height="150"/>
+	<SubTexture name="lose0001" x="156" y="768" width="150" height="150"/>
+	<SubTexture name="lose0002" x="309" y="3" width="150" height="150"/>
+	<SubTexture name="lose0003" x="309" y="3" width="150" height="150"/>
+	<SubTexture name="neutral0000" x="3" y="3" width="150" height="150"/>
+	<SubTexture name="neutral0001" x="3" y="3" width="150" height="150"/>
+	<SubTexture name="neutral0002" x="3" y="3" width="150" height="150"/>
+	<SubTexture name="neutral0003" x="3" y="156" width="150" height="150"/>
+	<SubTexture name="neutral0004" x="3" y="156" width="150" height="150"/>
+	<SubTexture name="neutral0005" x="3" y="156" width="150" height="150"/>
+	<SubTexture name="neutral0006" x="3" y="309" width="150" height="150"/>
+	<SubTexture name="neutral0007" x="3" y="309" width="150" height="150"/>
+	<SubTexture name="neutral0008" x="3" y="309" width="150" height="150"/>
+	<SubTexture name="win0000" x="156" y="462" width="150" height="150"/>
+	<SubTexture name="win0001" x="156" y="462" width="150" height="150"/>
+	<SubTexture name="win0002" x="156" y="615" width="150" height="150"/>
+	<SubTexture name="win0003" x="156" y="615" width="150" height="150"/>
+</TextureAtlas>

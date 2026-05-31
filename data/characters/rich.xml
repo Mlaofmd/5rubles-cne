@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="28" y="225" sprite="matematika/rich_math" camx="-600" camy="16" icon="rich" color="#4E3A63" holdTime="6.1">
+	<anim name="idle" anim="idle" x="-3" y="73" loop="true"/>
+	<anim name="singDOWN" anim="down0" x="-4" y="27"/>
+	<anim name="singRIGHT" anim="right0" x="-3.4" y="57.2"/>
+	<anim name="singLEFT" anim="left0" x="83.4" y="73"/>
+	<anim name="singUP" anim="up0" x="-3.8" y="86.8"/>
+	<anim name="hey" anim="ahegao" x="-4" y="150"/>
+	<anim name="idle-alt" anim="altidle"/>
+</character>

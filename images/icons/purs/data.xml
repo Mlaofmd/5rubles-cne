@@ -1,0 +1,11 @@
+﻿<!DOCTYPE codename-engine-icon>
+<icon scale="1" facing="right" flipX="true" antialiasing="true" offsetX="50" offsetY="20">
+    <anim name="neutral" anim="neutral" looped="true" fps="24"/>
+    <anim name="losing" anim="lose loop" looped="true" fps="24"/>
+    <anim name="winning" anim="win loop" looped="true" fps="24"/>
+
+    <transition from="neutral" to="losing" anim="lose0" fps="24"/>
+    <transition from="losing" to="neutral" anim="lose0" indices="5..0" fps="24"/>
+    <transition from="neutral" to="winning" anim="win0" fps="24"/>
+    <transition from="winning" to="neutral" anim="win0" indices="5..0" fps="24"/>
+</icon>

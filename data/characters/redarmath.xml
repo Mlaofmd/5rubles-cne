@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-6" y="132" sprite="matematika/redarmath" flipX="true" camx="160" camy="1" isPlayer="true" icon="redar" color="#A78B75" holdTime="6.1">
+	<anim name="idle" anim="idle" x="-27.4" y="22" loop="true"/>
+	<anim name="singDOWN" anim="down0" x="-3.6" y="-15"/>
+	<anim name="singRIGHT" anim="right0" x="-25.4" y="-20.8"/>
+	<anim name="singLEFT" anim="left0" x="-3.6" y="-15"/>
+	<anim name="singUP" anim="up0" x="-26.8" y="20.8"/>
+</character>
