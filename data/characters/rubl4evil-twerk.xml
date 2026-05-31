@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="3" y="-27" sprite="under-construction/rubl4evil_twrk" icon="rubl4evil" color="#1F6D3B">
+	<anim name="danceLeft" anim="twerk" x="52" y="-172" indices="0..4"/>
+	<anim name="danceRight" anim="twerk" x="52" y="-172" indices="5..9"/>
+</character>

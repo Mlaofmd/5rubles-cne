@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="28.4" y="92.4" sprite="under-construction/vsartem" camx="50" camy="-100" color="#3DA13D">
+	<anim name="idle" anim="Idle0" x="-2" y="1"/>
+	<anim name="singDOWN" anim="down0" x="8.8" y="-105"/>
+	<anim name="singRIGHT" anim="right0" x="-52.8" y="-6"/>
+	<anim name="singLEFT" anim="left0" x="138.8" y="-22.2"/>
+	<anim name="singUP" anim="up0" x="13.8" y="62"/>
+	<anim name="explode1" anim="explodeone" x="50.2" y="-13.8"/>
+	<anim name="explode2" anim="explodetwo" x="38.8" y="-7.6"/>
+</character>

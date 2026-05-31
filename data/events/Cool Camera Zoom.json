@@ -1,0 +1,44 @@
+{
+    "params": [
+        {
+            "name": "Additive Zoom",
+            "type": "Float(0.01, 10, 0.025, 2)",
+            "defaultValue": "0"
+        },
+        {
+            "name": "Bump Zoom",
+            "type": "Float(0.01, 10, 0.025, 2)",
+            "defaultValue": "0.05"
+        },
+        {
+            "name": "Behaivor",
+            "type": "DropDown('mode1', 'mode2')",
+            "defaultValue": "mode1"
+        },
+        {
+            "name": "Time (Steps)",
+            "type": "Float(0.25, 9999, 0.25, 2)",
+            "defaultValue": "4"
+        },
+        {
+            "name": "Tween Ease (ex: circ, quad, cube)",
+            "type": "DropDown('linear', 'back', 'bounce', 'circ', 'cube', 'elastic', 'expo', 'quad', 'quart', 'quint', 'sine', 'smoothStep', 'smootherStep')",
+            "defaultValue": "cube"
+        },
+        {
+            "name": "Tween Type (ex: InOut)",
+            "type": "DropDown('In', 'Out', 'InOut')",
+            "defaultValue": "In"
+        },
+        {
+            "name": "Camera",
+            "type": "DropDown('camGame', 'camHUD')",
+            "defaultValue": "camGame"
+        },
+        {
+            "name": "Mode",
+            "type": "DropDown('direct', 'stage')",
+            "defaultValue": "direct"
+        }
+    ]
+}

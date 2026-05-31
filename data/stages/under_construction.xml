@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/under_construction/" name="under_construction" zoom="0.46">
+	<sprite scrolly="0.86" x="600" sprite="phase1/sky" y="-1368" type="none" scalex="3775" scrollx="0.4" name="sky"/>
+	<sprite scrolly="0.89" x="-1171" sprite="phase1/buildings" y="-853" type="none" scrollx="0.6" name="buildings"/>
+	<sprite scrolly="0.92" x="-1458" sprite="phase1/wall" y="10" type="none" scrollx="0.7" name="wall"/>
+	<sprite scrolly="0.93" x="-1115" sprite="phase1/bg" y="-485" type="none" scrollx="0.75" name="bg"/>
+	<sprite scrolly="0.98" x="-1014" sprite="phase1/bushes" y="391" type="none" scrollx="0.96" name="bushes"/>
+	<sprite scrolly="0.94" x="-55" sprite="phase1/dunamite" y="-89" type="none" scrollx="0.78" name="dynomite"/>
+	<sprite x="-1260" sprite="phase1/floor" y="-60" type="none" name="floor"/>
+	<girlfriend x="0" y="0"/>
+	<dad x="130" y="416"/>
+	<boyfriend scale="0.9025" x="1393" y="391"/>
+</stage>

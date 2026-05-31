@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "colors",
+            "type": "Float(0.1, 100, 0.01, 2)",
+            "defaultValue": "100"
+        },
+        {
+            "name": "pixels",
+            "type": "Float(0.1, 100, 0.01, 2)",
+            "defaultValue": "0.05"
+        },
+        {
+            "name": "lerpTime",
+            "type": "Float(0.1, 100, 0.01, 2)",
+            "defaultValue": "1"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="3" y="-27" sprite="under-construction/rubl4evil" color="#1F6D3B">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down0" x="112" y="-83"/>
+	<anim name="singRIGHT" anim="right0" x="-40" y="7"/>
+	<anim name="singLEFT" anim="left0" x="238" y="-20"/>
+	<anim name="singUP" anim="up0" x="-21" y="98"/>
+	<anim name="idle-alt" anim="alt idle0" x="63" y="-76" loop="true"/>
+	<anim name="singDOWN-alt" anim="alt down0" x="30" y="-162"/>
+	<anim name="singRIGHT-alt" anim="alt right0" x="-16" y="22"/>
+	<anim name="singLEFT-alt" anim="alt left0" x="214" y="-43"/>
+	<anim name="singUP-alt" anim="alt up0" x="50" y="191"/>
+	<anim name="singDOWN-bzd" anim="bzd down0" x="-13" y="-83"/>
+	<anim name="singRIGHT-bzd" anim="bzd right0" x="-47" y="7"/>
+	<anim name="singLEFT-bzd" anim="bzd left0" x="177" y="-20"/>
+	<anim name="singUP-bzd" anim="bzd up0" x="-21" y="98"/>
+	<anim name="idle-bzd" anim="bzd idle" x="-24" y="-43"/>
+</character>

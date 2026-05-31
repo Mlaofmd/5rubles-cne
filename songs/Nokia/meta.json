@@ -1,0 +1,28 @@
+{
+	"color": "#000000",
+	"customValues": {
+		"ratings": {
+			"easy": 3,
+			"normal": 4,
+			"hard": 5
+		},
+		"stickerPack": "default",
+		"previewStart": 0,
+		"previewEnd": 0,
+		"charter": "HopKa",
+		"artist": "PukovichCat, simnsnd, RofosHristo",
+		"album": "Nokia",
+		"noteStyle": "funkin"
+	},
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "nokia",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

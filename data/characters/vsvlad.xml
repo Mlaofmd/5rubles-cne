@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="-41" y="127" sprite="under-construction/vsvlad" scale="0.95" flipX="true" camx="-110" camy="-40" isPlayer="true" icon="vsvlad" color="#3034AA">
+	<anim name="idle" anim="idle0"/>
+	<anim name="singDOWN" anim="down0" y="-63"/>
+	<anim name="singRIGHT" anim="right0" x="-44" y="-8"/>
+	<anim name="singLEFT" anim="left0" x="84" y="2"/>
+	<anim name="singUP" anim="up0" x="-25" y="77"/>
+	<anim name="singDOWNmiss" anim="down miss0" x="-1" y="-4"/>
+	<anim name="singRIGHTmiss" anim="right miss0" x="-42" y="76"/>
+	<anim name="singLEFTmiss" anim="left miss0" x="81" y="2"/>
+	<anim name="singUPmiss" anim="up miss0" x="-22" y="77"/>
+	<anim name="shocked" anim="shocked0" x="11" y="2" loop="true"/>
+	<anim name="shocked end" anim="shocked end" x="-5" y="18"/>
+</character>

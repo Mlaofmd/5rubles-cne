@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character scale="1.1" icon="redar-new" color="#A37A5F">
+	<anim name="idle" anim="idle" y="-37"/>
+	<anim name="singDOWN" anim="down0" x="-12" y="-63"/>
+	<anim name="singRIGHT" anim="right0" x="-56"/>
+	<anim name="singLEFT" anim="left0" x="31" y="-26"/>
+	<anim name="singUP" anim="up0" x="-4" y="-17"/>
+	<anim name="singUPmiss" anim="miss up0" x="22" y="-18"/>
+	<anim name="singDOWNmiss" anim="miss down" x="-8" y="-79"/>
+	<anim name="singLEFTmiss" anim="miss left0" x="115" y="-31"/>
+	<anim name="singRIGHTmiss" anim="miss right0" x="-18" y="-18"/>
+</character>

@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="26.4" y="-138.2" flipX="true" isPlayer="true" icon="zorka" color="#C05B5B">
+	<anim name="idle" anim="idle" y="2"/>
+	<anim name="singDOWN" anim="down0" x="10" y="-63"/>
+	<anim name="singRIGHT" anim="right0" x="-85" y="-6"/>
+	<anim name="singLEFT" anim="left0" x="95" y="-13"/>
+	<anim name="singUP" anim="up0" x="-8" y="46"/>
+	<anim name="end" anim="end" x="-10" y="6"/>
+	<anim name="hehehe" anim="hehehe" x="-22" y="23" indices="0..82"/>
+	<anim name="singUPmiss" anim="up miss" x="-14" y="47"/>
+	<anim name="singDOWNmiss" anim="down miss" x="10" y="-60"/>
+	<anim name="singLEFTmiss" anim="left miss" x="85" y="-6"/>
+	<anim name="singRIGHTmiss" anim="right miss" x="-91" y="-8"/>
+</character>
